@@ -1,0 +1,16 @@
+requests
+psycopg[binary,pool]
+pgvector
+fastembed
+mcp<2
+fastapi
+uvicorn[standard]
+sse-starlette
+langgraph
+langgraph-checkpoint-postgres
+langchain-google-genai
+langchain-core
+pydantic
+python-dotenv
+pytest
+langchain-openai
