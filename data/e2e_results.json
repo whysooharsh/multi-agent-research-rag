@@ -1,0 +1,246 @@
+{
+ "hybrid": {
+  "summary": {
+   "answered": 15,
+   "errors": 5,
+   "mean_judge_groundedness": 0.6,
+   "mean_critic_groundedness": 0.6,
+   "mean_drafts": 1.6
+  },
+  "rows": [
+   {
+    "question": "How did the features and partnerships of CitiNet contribute to its commercial success and expansion into larger telephone network gateway projects during the 1980s?",
+    "judge_groundedness": 1.0,
+    "critic_groundedness": 1.0,
+    "drafts": 1
+   },
+   {
+    "question": "In what ways has the function of sand surfaces evolved from their early educational applications, such as geometry and arithmetic calculations, to contemporary military operations and training?",
+    "judge_groundedness": 1.0,
+    "critic_groundedness": 1.0,
+    "drafts": 1
+   },
+   {
+    "question": "How did Paul Allen balance his extensive business career and sports team ownership with his widespread philanthropic contributions to higher education and scientific research throughout his life?",
+    "judge_groundedness": 0.0,
+    "critic_groundedness": 0.0,
+    "drafts": 3
+   },
+   {
+    "question": "How did a journalistic clich\u00e9 from 1949 evolve into a widespread naming convention for critical computer science essays, and how have subsequent authors adapted this template to critique various programming tools and concepts?",
+    "judge_groundedness": 1.0,
+    "critic_groundedness": 1.0,
+    "drafts": 1
+   },
+   {
+    "question": "How did the hardware components used to build the Augmented Reality Sandtable contribute to its function in supporting military training and soldier learning?",
+    "judge_groundedness": 1.0,
+    "critic_groundedness": 1.0,
+    "drafts": 1
+   },
+   {
+    "question": "How does the hardware component mentioned in the historical microcomputer description relate to the manufacturing specialty of Poland's largest memory producer?",
+    "error": "GoogleRateLimitError: Error calling model 'gemini-3.5-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your p"
+   },
+   {
+    "question": "What specific innovations and computer systems did the laboratory use to work toward its goal of producing the first feature-length computer-generated film?",
+    "error": "GoogleRateLimitError: Error calling model 'gemini-3.5-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your p"
+   },
+   {
+    "question": "How did the concept of open computer architectures evolve from a competitive threat that legacy mainframe providers initially opposed in the late 20th century into a core commercial approach incorporating Linux and open-source software by the twenty-first century?",
+    "error": "GoogleRateLimitError: Error calling model 'gemini-3.5-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your p"
+   },
+   {
+    "question": "How do the market values and ongoing software or hardware development for vintage Apple computers compare to those of collectible retro machines produced by Tandy?",
+    "judge_groundedness": 1.0,
+    "critic_groundedness": 1.0,
+    "drafts": 2
+   },
+   {
+    "question": "How did the expansion of international IP connections and global networking infrastructure during the late 1980s and early 1990s compare across different regions, such as Australia, New Zealand, and South Korea, in contrast to the simultaneous advancements in space-based internet access and new transmission protocols being developed in the United States?",
+    "judge_groundedness": 0.0,
+    "critic_groundedness": 0.0,
+    "drafts": 1
+   },
+   {
+    "question": "How did the role, compensation, and technological tools of human computers evolve from the late nineteenth-century astronomical and biological research groups to the mid-twentieth-century aeronautical and space programs?",
+    "judge_groundedness": 1.0,
+    "critic_groundedness": 1.0,
+    "drafts": 1
+   },
+   {
+    "question": "How did historical concepts and fictional depictions of thinking machines influence the methods and rebranding strategies adopted by researchers attempting to distance themselves from past failures?",
+    "error": "GoogleRateLimitError: Error calling model 'gemini-3.5-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your p"
+   },
+   {
+    "question": "How do the functional everyday items and the high-stakes survival tools featured in the exhibition together demonstrate the capacity of material creation to influence societal behavior and human existence?",
+    "error": "GoogleRateLimitError: Error calling model 'gemini-3.5-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your p"
+   },
+   {
+    "question": "How do the historical publications on actor systems by researchers such as Carl Hewitt connect to the theoretical foundations and early computational models that influenced the development of the Actor framework?",
+    "judge_groundedness": 0.0,
+    "critic_groundedness": 0.0,
+    "drafts": 3
+   },
+   {
+    "question": "How do the founding history and subsequent relocation of the Charles Babbage Institute connect to its current physical home and archival holdings at the University of Minnesota?",
+    "judge_groundedness": 1.0,
+    "critic_groundedness": 1.0,
+    "drafts": 1
+   },
+   {
+    "question": "How did the founders' original framework for gathering global information evolve into Paul Otlet's later vision for a decentralized system of interconnected remote documents?",
+    "judge_groundedness": 1.0,
+    "critic_groundedness": 1.0,
+    "drafts": 1
+   },
+   {
+    "question": "How do the economic and resource impacts of unwanted electronic messages discussed in one text relate to the historical tracking data and documented examples referenced in the other?",
+    "judge_groundedness": 0.0,
+    "critic_groundedness": 0.0,
+    "drafts": 3
+   },
+   {
+    "question": "How did the advancement of high-performance mainframe technology during the 1960s coincide with the demographic shift in the programming workforce from female to male dominance?",
+    "judge_groundedness": 0.0,
+    "critic_groundedness": 0.0,
+    "drafts": 3
+   },
+   {
+    "question": "How did the technical specifications established by academic researchers in the 1980s shape the pricing and commercial development of early high-performance workstations by companies like Sun Microsystems?",
+    "judge_groundedness": 1.0,
+    "critic_groundedness": 1.0,
+    "drafts": 1
+   },
+   {
+    "question": "How did the structural limitations of the initial benchmark test influence the critiques it received and the subsequent, albeit unsuccessful, efforts to replace it?",
+    "judge_groundedness": 0.0,
+    "critic_groundedness": 0.0,
+    "drafts": 1
+   }
+  ]
+ },
+ "bm25": {
+  "summary": {
+   "answered": 16,
+   "errors": 4,
+   "mean_judge_groundedness": 0.5,
+   "mean_critic_groundedness": 0.5,
+   "mean_drafts": 1.75
+  },
+  "rows": [
+   {
+    "question": "How did the features and partnerships of CitiNet contribute to its commercial success and expansion into larger telephone network gateway projects during the 1980s?",
+    "judge_groundedness": 1.0,
+    "critic_groundedness": 1.0,
+    "drafts": 1
+   },
+   {
+    "question": "In what ways has the function of sand surfaces evolved from their early educational applications, such as geometry and arithmetic calculations, to contemporary military operations and training?",
+    "judge_groundedness": 1.0,
+    "critic_groundedness": 1.0,
+    "drafts": 1
+   },
+   {
+    "question": "How did Paul Allen balance his extensive business career and sports team ownership with his widespread philanthropic contributions to higher education and scientific research throughout his life?",
+    "judge_groundedness": 0.0,
+    "critic_groundedness": 0.0,
+    "drafts": 3
+   },
+   {
+    "question": "How did a journalistic clich\u00e9 from 1949 evolve into a widespread naming convention for critical computer science essays, and how have subsequent authors adapted this template to critique various programming tools and concepts?",
+    "judge_groundedness": 0.0,
+    "critic_groundedness": 0.0,
+    "drafts": 2
+   },
+   {
+    "question": "How did the hardware components used to build the Augmented Reality Sandtable contribute to its function in supporting military training and soldier learning?",
+    "judge_groundedness": 1.0,
+    "critic_groundedness": 1.0,
+    "drafts": 1
+   },
+   {
+    "question": "How does the hardware component mentioned in the historical microcomputer description relate to the manufacturing specialty of Poland's largest memory producer?",
+    "judge_groundedness": 0.0,
+    "critic_groundedness": 0.0,
+    "drafts": 1
+   },
+   {
+    "question": "What specific innovations and computer systems did the laboratory use to work toward its goal of producing the first feature-length computer-generated film?",
+    "error": "GoogleRateLimitError: Error calling model 'gemini-3.5-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your p"
+   },
+   {
+    "question": "How did the concept of open computer architectures evolve from a competitive threat that legacy mainframe providers initially opposed in the late 20th century into a core commercial approach incorporating Linux and open-source software by the twenty-first century?",
+    "judge_groundedness": 1.0,
+    "critic_groundedness": 1.0,
+    "drafts": 1
+   },
+   {
+    "question": "How do the market values and ongoing software or hardware development for vintage Apple computers compare to those of collectible retro machines produced by Tandy?",
+    "judge_groundedness": 0.0,
+    "critic_groundedness": 0.0,
+    "drafts": 3
+   },
+   {
+    "question": "How did the expansion of international IP connections and global networking infrastructure during the late 1980s and early 1990s compare across different regions, such as Australia, New Zealand, and South Korea, in contrast to the simultaneous advancements in space-based internet access and new transmission protocols being developed in the United States?",
+    "judge_groundedness": 1.0,
+    "critic_groundedness": 1.0,
+    "drafts": 2
+   },
+   {
+    "question": "How did the role, compensation, and technological tools of human computers evolve from the late nineteenth-century astronomical and biological research groups to the mid-twentieth-century aeronautical and space programs?",
+    "judge_groundedness": 0.0,
+    "critic_groundedness": 0.0,
+    "drafts": 3
+   },
+   {
+    "question": "How did historical concepts and fictional depictions of thinking machines influence the methods and rebranding strategies adopted by researchers attempting to distance themselves from past failures?",
+    "judge_groundedness": 0.0,
+    "critic_groundedness": 0.0,
+    "drafts": 3
+   },
+   {
+    "question": "How do the functional everyday items and the high-stakes survival tools featured in the exhibition together demonstrate the capacity of material creation to influence societal behavior and human existence?",
+    "judge_groundedness": 0.0,
+    "critic_groundedness": 0.0,
+    "drafts": 3
+   },
+   {
+    "question": "How do the historical publications on actor systems by researchers such as Carl Hewitt connect to the theoretical foundations and early computational models that influenced the development of the Actor framework?",
+    "judge_groundedness": 1.0,
+    "critic_groundedness": 1.0,
+    "drafts": 1
+   },
+   {
+    "question": "How do the founding history and subsequent relocation of the Charles Babbage Institute connect to its current physical home and archival holdings at the University of Minnesota?",
+    "judge_groundedness": 1.0,
+    "critic_groundedness": 1.0,
+    "drafts": 1
+   },
+   {
+    "question": "How did the founders' original framework for gathering global information evolve into Paul Otlet's later vision for a decentralized system of interconnected remote documents?",
+    "judge_groundedness": 1.0,
+    "critic_groundedness": 1.0,
+    "drafts": 1
+   },
+   {
+    "question": "How do the economic and resource impacts of unwanted electronic messages discussed in one text relate to the historical tracking data and documented examples referenced in the other?",
+    "judge_groundedness": 0.0,
+    "critic_groundedness": 0.0,
+    "drafts": 1
+   },
+   {
+    "question": "How did the advancement of high-performance mainframe technology during the 1960s coincide with the demographic shift in the programming workforce from female to male dominance?",
+    "error": "GoogleRateLimitError: Error calling model 'gemini-3.5-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your p"
+   },
+   {
+    "question": "How did the technical specifications established by academic researchers in the 1980s shape the pricing and commercial development of early high-performance workstations by companies like Sun Microsystems?",
+    "error": "GoogleRateLimitError: Error calling model 'gemini-3.5-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your p"
+   },
+   {
+    "question": "How did the structural limitations of the initial benchmark test influence the critiques it received and the subsequent, albeit unsuccessful, efforts to replace it?",
+    "error": "GoogleRateLimitError: Error calling model 'gemini-3.5-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your p"
+   }
+  ]
+ }
+}

@@ -1,0 +1,502 @@
+[
+ {
+  "gold_id": 789,
+  "title": "Floating-point arithmetic",
+  "question": "What are the various ways specified for adjusting numbers when exact mathematical limits must be maintained?"
+ },
+ {
+  "gold_id": 1553,
+  "title": "History of the Amiga",
+  "question": "Why did the perception of a particular line of home computers differ between Europe and the United States?"
+ },
+ {
+  "gold_id": 862,
+  "title": "Bill Gates",
+  "question": "In what year did a major British royal honor get bestowed upon the software executive?"
+ },
+ {
+  "gold_id": 83,
+  "title": "History of personal computers",
+  "question": "Which company released a personal workstation featuring a proprietary expansion bus system in an effort to regain dominance over clone manufacturers?"
+ },
+ {
+  "gold_id": 531,
+  "title": "History of the Church\u2013Turing thesis",
+  "question": "How did a prominent logician formally equate mechanical procedures with calculable values in his doctoral dissertation?"
+ },
+ {
+  "gold_id": 1048,
+  "title": "History of the Internet",
+  "question": "Which legislation enabled a research-focused network infrastructure to connect with commercial data services in the United States?"
+ },
+ {
+  "gold_id": 996,
+  "title": "Margaret Helen Harper",
+  "question": "Where was a bibliography entry regarding the history of programming languages published in 2014?"
+ },
+ {
+  "gold_id": 830,
+  "title": "Bill Gates",
+  "question": "What primary engine of societal advancement did the former technology executive identify during a media interview?"
+ },
+ {
+  "gold_id": 622,
+  "title": "History of computer animation",
+  "question": "Which organization created the initial completely digital television program that spanned multiple full-length episodes?"
+ },
+ {
+  "gold_id": 977,
+  "title": "History of computing hardware",
+  "question": "What specific electronic components were utilized to build the world's inaugural fully solid-state computing machine?"
+ },
+ {
+  "gold_id": 734,
+  "title": "History of computed tomography",
+  "question": "What specific limitations in existing medical imaging did the inventor seek to address by formulating a new mathematical approach for body section scans?"
+ },
+ {
+  "gold_id": 1195,
+  "title": "History of computing in Poland",
+  "question": "Which long-standing association represents computing professionals in Poland and engages in educational and legislative activities?"
+ },
+ {
+  "gold_id": 448,
+  "title": "History of bitcoin",
+  "question": "What non-profit human rights organization temporarily halted and later resumed accepting cryptocurrency donations?"
+ },
+ {
+  "gold_id": 1034,
+  "title": "History of the Internet",
+  "question": "Which historical networking protocol development shifted the burden of reliability from the communication channels directly to the participating host computers?"
+ },
+ {
+  "gold_id": 286,
+  "title": "Antikythera mechanism",
+  "question": "What primary astronomical cycle does the largest upper rear dial on the antikythera device track by mapping synodic months to tropical years?"
+ },
+ {
+  "gold_id": 578,
+  "title": "Computer (occupation)",
+  "question": "Which historical group of women responsible for astronomical calculations included individuals who classified stellar spectra and searched for distant planets?"
+ },
+ {
+  "gold_id": 287,
+  "title": "Antikythera mechanism",
+  "question": "Based on calendar correlations and regional games mentioned on the mechanism, which historical regional calendar is believed to have been utilized by the ancient device?"
+ },
+ {
+  "gold_id": 1548,
+  "title": "History of the Amiga",
+  "question": "What initial public misconception regarding its primary capabilities hindered the market adoption of a pioneering multimedia personal computer series released in the nineteen-eighties?"
+ },
+ {
+  "gold_id": 195,
+  "title": "1984 (advertisement)",
+  "question": "Which advertising agency developed the famous dystopian-themed television advertisement introducing a major personal computer brand in nineteen eighty-four?"
+ },
+ {
+  "gold_id": 1267,
+  "title": "Soci\u00e9t\u00e9 d'\u00e9lectronique et d'automatisme",
+  "question": "What government-mandated corporate restructuring initiative ultimately forced a prominent French technology manufacturer to merge with another enterprise in the late nineteen-sixties?"
+ },
+ {
+  "gold_id": 514,
+  "title": "History of the Church\u2013Turing thesis",
+  "question": "What core concept regarding mathematical computation was formalized after decades of discussion, eventually involving deductive rules?"
+ },
+ {
+  "gold_id": 1091,
+  "title": "Learn BASIC Now",
+  "question": "Which software development tool was jointly created by two distinct internal technology teams and later served as the foundation for a subsequent interpreter release?"
+ },
+ {
+  "gold_id": 1445,
+  "title": "History of video games",
+  "question": "How did escalating production expenditures and cinematic storytelling ambitions influence high-end interactive software development around the turn of the millennium?"
+ },
+ {
+  "gold_id": 1233,
+  "title": "Retrocomputing",
+  "question": "Why do hobbyists occasionally engage in the practice of utilizing obsolete computing equipment for recreation and preservation?"
+ },
+ {
+  "gold_id": 301,
+  "title": "Antikythera mechanism",
+  "question": "How do mechanical linkages involving gears and slotted bars function together to generate planetary anomalies within the described mechanism?"
+ },
+ {
+  "gold_id": 636,
+  "title": "List of computer museums",
+  "question": "What are some examples of virtual and physical establishments dedicated to preserving the history of information technology and digital entertainment?"
+ },
+ {
+  "gold_id": 203,
+  "title": "1984 (advertisement)",
+  "question": "In what ways have various media creators and corporate entities adapted a famous 1980s television advertisement for political and commercial commentary?"
+ },
+ {
+  "gold_id": 1495,
+  "title": "West Coast Computer Faire",
+  "question": "How did observers characterize the evolution and attendance trends of prominent technology trade expositions held in San Francisco during the late 1980s?"
+ },
+ {
+  "gold_id": 152,
+  "title": "History of personal computers",
+  "question": "What circumstances led a prominent gaming enterprise to shift its hardware development focus toward user-friendly home systems in the late 1970s?"
+ },
+ {
+  "gold_id": 1401,
+  "title": "History of video games",
+  "question": "What combination of market pressures and technological shifts triggered a major economic collapse within the North American interactive entertainment sector during the early 1980s?"
+ },
+ {
+  "gold_id": 677,
+  "title": "History of computing hardware (1960s\u2013present)",
+  "question": "What kind of smaller computing devices emerged prior to mainstream personal systems that allowed individual laboratories to bypass central university computing departments?"
+ },
+ {
+  "gold_id": 967,
+  "title": "History of computing hardware",
+  "question": "What theoretical framework for programmable digital machines was outlined in a mid-1930s academic publication by a prominent British logician?"
+ },
+ {
+  "gold_id": 1147,
+  "title": "New York Institute of Technology",
+  "question": "What specific type of sports team did an educational institution in New York announce it would add to its active roster by the middle of the decade?"
+ },
+ {
+  "gold_id": 207,
+  "title": "History of the Actor model",
+  "question": "What structural approach was adopted by a particular simulation programming language to allow objects to update their own states through direct communication rather than relying on a central coordinator?"
+ },
+ {
+  "gold_id": 725,
+  "title": "CP/M",
+  "question": "Which bibliographical references discuss the evolution, manuals, and technical adaptations of a widely used foundational microcomputer operating system from the 1970s and 1980s?"
+ },
+ {
+  "gold_id": 890,
+  "title": "History of general-purpose CPUs",
+  "question": "How do processors without a coordinating time signal determine the progression of computational tasks through their internal stages?"
+ },
+ {
+  "gold_id": 648,
+  "title": "History of computer science",
+  "question": "Which historical researcher proposed the concept of floating-point arithmetic and demonstrated an electromechanical calculating device controlled by prepogammed instructions?"
+ },
+ {
+  "gold_id": 1252,
+  "title": "Rugg/Feldman benchmarks",
+  "question": "How were users expected to interact with a set of early programming performance evaluations published in periodicals during the late 1970s and 1980s without needing to input multiple distinct scripts?"
+ },
+ {
+  "gold_id": 1312,
+  "title": "History of computing in the Soviet Union",
+  "question": "What key manufacturing shortcoming prevented a major Eastern European nation from effectively commercializing its theoretical advancements in computing?"
+ },
+ {
+  "gold_id": 419,
+  "title": "As We May Think",
+  "question": "Which seminal essay anticipated numerous future technological breakthroughs such as hypertext and digital encyclopedias, subsequently inspiring the creation of foundational human-computer interface tools?"
+ },
+ {
+  "gold_id": 1132,
+  "title": "New York Institute of Technology",
+  "question": "What kind of upgrades and new facilities have been added to the suburban campus in recent years?"
+ },
+ {
+  "gold_id": 907,
+  "title": "Graphical user interface",
+  "question": "How do text-based interfaces differ from graphical ones in terms of operation and efficiency?"
+ },
+ {
+  "gold_id": 1068,
+  "title": "History of the Internet",
+  "question": "What global organization supports various internet standards bodies and promotes open network development?"
+ },
+ {
+  "gold_id": 534,
+  "title": "History of the Church\u2013Turing thesis",
+  "question": "How many equivalent formulations have been established to describe an automatic problem-solving procedure?"
+ },
+ {
+  "gold_id": 128,
+  "title": "History of personal computers",
+  "question": "Which early portable computer prototype is recognized by a major magazine as a pioneering personal device?"
+ },
+ {
+  "gold_id": 1124,
+  "title": "Mundaneum",
+  "question": "In what ways has a visionary thinker's 1930s network concept been housed and relocated over the decades?"
+ },
+ {
+  "gold_id": 29,
+  "title": "History of personal computers",
+  "question": "What alternative input method was required before high-level language interpreters became available for microcomputers?"
+ },
+ {
+  "gold_id": 192,
+  "title": "History of personal computers",
+  "question": "Which institutions and resources document the evolution and milestones of early computing hardware?"
+ },
+ {
+  "gold_id": 1474,
+  "title": "Vintage computer",
+  "question": "What was the primary target market and adoption outcome of a high-end office workstation released in the early 1980s?"
+ },
+ {
+  "gold_id": 817,
+  "title": "Bill Gates",
+  "question": "What academic and professional milestones did a prominent software pioneer achieve before leaving university?"
+ },
+ {
+  "gold_id": 1455,
+  "title": "History of video games",
+  "question": "What kind of economic model allows users to unlock ongoing digital rewards and expansions through periodic purchases and task completion?"
+ },
+ {
+  "gold_id": 1369,
+  "title": "History of tablet computers",
+  "question": "Which company originally unveiled the prototype device that established hardware benchmarks for pen-driven portable computers running specialized operating systems?"
+ },
+ {
+  "gold_id": 1281,
+  "title": "History of software",
+  "question": "What licensing approach allows worldwide users to freely access, alter, and distribute software source code to foster collaborative innovation?"
+ },
+ {
+  "gold_id": 3,
+  "title": "History of computing",
+  "question": "What ancient geared artifact recovered from a Mediterranean shipwreck is considered the earliest known mechanical device for calculating celestial coordinates?"
+ },
+ {
+  "gold_id": 1254,
+  "title": "Rugg/Feldman benchmarks",
+  "question": "How does replacing specific variable identifiers with direct numerical values impact the execution of certain programming interpreters during mathematical operations?"
+ },
+ {
+  "gold_id": 1011,
+  "title": "History of information technology auditing",
+  "question": "During what decade did the adoption of smaller, more affordable computing machinery prompt the creation of specialized audit tools within corporate accounting?"
+ },
+ {
+  "gold_id": 683,
+  "title": "History of computing hardware (1960s\u2013present)",
+  "question": "Where can someone find historical resources detailing the evolution and architecture of early digital machinery before the 1960s?"
+ },
+ {
+  "gold_id": 500,
+  "title": "C.mmp",
+  "question": "What structural arrangement allowed sixteen processing units in a pioneering multiprocessor architecture to simultaneously communicate with distinct memory blocks?"
+ },
+ {
+  "gold_id": 1496,
+  "title": "West Coast Computer Faire",
+  "question": "Which publication frequently featured contemporary reports and editorial commentary regarding a prominent annual personal computing convention held on the Pacific coast during the late nineteen-seventies and early eighties?"
+ },
+ {
+  "gold_id": 667,
+  "title": "History of computing hardware (1960s\u2013present)",
+  "question": "How did the architectural features and addressing techniques of computing systems evolve between the initial and subsequent hardware eras?"
+ },
+ {
+  "gold_id": 1442,
+  "title": "History of video games",
+  "question": "What major mobile platform was launched in the late 2000s, enabling third-party software creators to independently publish digital tools?"
+ },
+ {
+  "gold_id": 129,
+  "title": "History of personal computers",
+  "question": "Why were early personal computers frequently operated without an underlying system manager?"
+ },
+ {
+  "gold_id": 392,
+  "title": "History of artificial intelligence",
+  "question": "What prompted prominent figures in artificial intelligence research to voice strong concerns regarding safety and existential threats?"
+ },
+ {
+  "gold_id": 1163,
+  "title": "History of numerical solution of differential equations using computers",
+  "question": "Which military priorities motivated the development of electro-mechanical calculation engines during wartime research?"
+ },
+ {
+  "gold_id": 455,
+  "title": "History of bitcoin",
+  "question": "How did regulatory and institutional stances toward digital currencies shift in Japan and Russia during the mid-to-late 2010s?"
+ },
+ {
+  "gold_id": 489,
+  "title": "Bull Gamma 60",
+  "question": "What limitations hampered the utilization of hardware capabilities when programming business applications for a specific mid-century computer architecture?"
+ },
+ {
+  "gold_id": 292,
+  "title": "Antikythera mechanism",
+  "question": "What manufacturing techniques and physical dimensions characterize the ancient gear components revealed through modern imaging?"
+ },
+ {
+  "gold_id": 1113,
+  "title": "Memex",
+  "question": "How could a user share custom information pathways with acquaintances using the proposed microfilm-based filing device?"
+ },
+ {
+  "gold_id": 918,
+  "title": "History of the graphical user interface",
+  "question": "Which factors limited the widespread adoption of early commercial window-based terminals despite their initial market success?"
+ },
+ {
+  "gold_id": 187,
+  "title": "History of personal computers",
+  "question": "What hardware storage shift occurred in certain ultra-thin portable computers introduced in 2008?"
+ },
+ {
+  "gold_id": 165,
+  "title": "History of personal computers",
+  "question": "Which company inadvertently secured its future operating system market dominance because a major tech giant permitted them to resell their operating system to other hardware producers?"
+ },
+ {
+  "gold_id": 656,
+  "title": "History of computer science",
+  "question": "Who established the academic discipline centered on communication through a foundational 1948 publication that utilized probability theory?"
+ },
+ {
+  "gold_id": 1041,
+  "title": "History of the Internet",
+  "question": "Which historical protocol was superseded by an architecture that established a meshed internet topology and reduced reliance on centralized routing?"
+ },
+ {
+  "gold_id": 1003,
+  "title": "History of hypertext",
+  "question": "How did early visionaries attempt to solve document cross-referencing and information overload challenges before the advent of electronic computers?"
+ },
+ {
+  "gold_id": 224,
+  "title": "Actor model later history",
+  "question": "Which authors contributed research regarding actor-based architectures and logic programming failures across multiple academic publications in the late 1990s and 2000s?"
+ },
+ {
+  "gold_id": 618,
+  "title": "History of computer animation",
+  "question": "Which computer graphics company was established in Toronto during 1983 to develop software for specialized workstations before gaining widespread cinematic recognition?"
+ },
+ {
+  "gold_id": 1129,
+  "title": "New York Institute of Technology",
+  "question": "Which academic institution pioneered the deployment of mainframe technology for educational instruction while housing a prominent computer graphics research laboratory?"
+ },
+ {
+  "gold_id": 597,
+  "title": "History of computer animation",
+  "question": "What cinematic production pioneered the application of digital image processing in a motion picture to simulate an android's perspective?"
+ },
+ {
+  "gold_id": 1448,
+  "title": "History of video games",
+  "question": "How did a major video game console manufacturer alter its product bundle and connectivity mandates following unfavorable consumer feedback prior to release?"
+ },
+ {
+  "gold_id": 256,
+  "title": "Paul Allen",
+  "question": "What initiative was established by a prominent philanthropist with an initial massive financial commitment to investigate the functionality of the human brain?"
+ },
+ {
+  "gold_id": 1122,
+  "title": "Mundaneum",
+  "question": "What European city currently houses the non-profit organization dedicated to preserving the legacy of Paul Otlet and Henri La Fontaine's grand classification project?"
+ },
+ {
+  "gold_id": 682,
+  "title": "History of computing hardware (1960s\u2013present)",
+  "question": "What line of affordable microcomputers released in the late 1970s helped initiate the era of mass-market domestic computing?"
+ },
+ {
+  "gold_id": 1107,
+  "title": "Lore Harp McGovern",
+  "question": "What was the name of the microelectronics firm founded by two former housewives in the late 1970s?"
+ },
+ {
+  "gold_id": 417,
+  "title": "As We May Think",
+  "question": "What conceptual information management machine did Vannevar Bush propose in his famous 1945 essay?"
+ },
+ {
+  "gold_id": 1236,
+  "title": "Retrocomputing",
+  "question": "What text editor did author George R. R. Martin famously reveal he uses to write his books?"
+ },
+ {
+  "gold_id": 1121,
+  "title": "Memex",
+  "question": "What specific type of government recognition did the leader of DARPA's Memex project receive in 2016 for anti-trafficking efforts?"
+ },
+ {
+  "gold_id": 1204,
+  "title": "History of programming languages",
+  "question": "What precise formal notation system, invented to define syntax, became a standard model for nearly all subsequent programming languages?"
+ },
+ {
+  "gold_id": 590,
+  "title": "History of computer animation",
+  "question": "What academic institution served as a primary hub for computer animation research and the development of 3D computer graphics techniques during the early 1970s?"
+ },
+ {
+  "gold_id": 912,
+  "title": "History of the graphical user interface",
+  "question": "What early input device was commonly used with cathode ray tube screens instead of a computer mouse?"
+ },
+ {
+  "gold_id": 188,
+  "title": "History of personal computers",
+  "question": "What specific hardware component did the Voodoo Graphics extension card rely on to deliver affordable 3D rendering for personal computers?"
+ },
+ {
+  "gold_id": 1222,
+  "title": "Punched tape",
+  "question": "What method was employed to store and transmit messages continuously using teletypewriters without relying on real-time typing speed?"
+ },
+ {
+  "gold_id": 650,
+  "title": "History of computer science",
+  "question": "How were calculating tasks generally handled by establishments before the widespread adoption of mechanical and digital computing devices?"
+ },
+ {
+  "gold_id": 1179,
+  "title": "History of operating systems",
+  "question": "In what ways did early video game hardware and modern console architectures differ regarding their inclusion of rudimentary system software or operating environments?"
+ },
+ {
+  "gold_id": 496,
+  "title": "Byte Sieve",
+  "question": "Which programming tools demonstrated the fastest execution speeds during the initial benchmarking trials described?"
+ },
+ {
+  "gold_id": 595,
+  "title": "History of computer animation",
+  "question": "What notable visual techniques and broadcast applications characterized the early popularity of the Scanimate system?"
+ },
+ {
+  "gold_id": 377,
+  "title": "History of artificial intelligence",
+  "question": "How did David Marr and roboticist Brooks propose altering the traditional symbolic approach to understanding cognitive functions and machine intelligence?"
+ },
+ {
+  "gold_id": 388,
+  "title": "History of artificial intelligence",
+  "question": "What technological advancements in the late 2000s and early 2010s provided machine learning models with vast amounts of training resources and breakthrough performance outcomes?"
+ },
+ {
+  "gold_id": 383,
+  "title": "History of artificial intelligence",
+  "question": "Why did numerous computer scientists and software developers during the 1990s and 2000s actively avoid utilizing the phrase artificial intelligence for their projects?"
+ },
+ {
+  "gold_id": 68,
+  "title": "History of personal computers",
+  "question": "Which affordable British personal computer series introduced in the early 1980s achieved massive commercial distribution and became a dominant home gaming platform?"
+ },
+ {
+  "gold_id": 1255,
+  "title": "Rugg/Feldman benchmarks",
+  "question": "What specific programming operations were evaluated in tests six through eight of the benchmark trials?"
+ }
+]
