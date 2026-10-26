@@ -1,0 +1,3 @@
+Go is a statically typed compiled programming language designed at Google.
+It is known for its simplicity, fast compilation, and built-in concurrency support.
+Go is widely used for building web servers, APIs, and command line tools.

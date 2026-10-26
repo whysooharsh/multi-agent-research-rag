@@ -1,0 +1,3 @@
+JavaScript is the programming language of the web, running in every browser.
+Node.js allows JavaScript to run on the server side for building fast APIs.
+React and Vue are popular JavaScript frameworks for building user interfaces.
