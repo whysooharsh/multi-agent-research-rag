@@ -1,0 +1,41 @@
+services:
+    postgres:
+        image: pgvector/pgvector:pg16
+        environment:
+            POSTGRES_USER: rag
+            POSTGRES_PASSWORD: rag
+            POSTGRES_DB: rag
+        ports:
+            - "5433:5432"
+        volumes:
+            - pgdata:/var/lib/postgresql/data
+        healthcheck:
+            test: ["CMD-SHELL", "pg_isready -U rag"]
+            interval: 3s
+            retries: 20
+
+    search:
+        build: ./search-engine
+        command: ["-dump", "/data/corpus.jsonl", "-addr", ":8000", "-max", "0"]
+        volumes:
+            - ./data:/data:ro
+        ports:
+            - "8000:8000"
+
+    api:
+        build: .
+        environment:
+            DATABASE_URL: postgresql://rag:rag@postgres:5432/rag
+            GO_SEARCH_URL: http://search:8000
+            GOOGLE_API_KEY: ${GOOGLE_API_KEY}
+            LLM_MODEL: ${LLM_MODEL:-gemini-3.5-flash}
+        depends_on:
+            postgres:
+                condition: service_healthy
+            search:
+                condition: service_started
+        ports:
+            - "8080:8080"
+
+volumes:
+    pgdata:
